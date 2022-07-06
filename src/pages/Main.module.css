@@ -1,0 +1,15 @@
+.main {
+  text-align: center;
+}
+
+.main img {
+  padding-top: 20px;
+  width: 40rem;
+  height: 40rem;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+  padding-bottom: 50px;
+}
